@@ -4,30 +4,12 @@ CRUD project created during the 'Adopt an intern' program at DSM-Firmenich, ment
 
 What was used?
 
-Programs
-• VSCode
-• MySQL Workbench
-
-Frontend
-• HTML
-• CSS
-• Bootstrap
-• JavaScript (ES6)
-
-Backend
-• JavaScript
-• Node.js
-
-Frameworks, Libraries and Modules
-• express
-• bcrypt
-• mysql2
-• dotenv
-• cors
-• npm
+Programs: VSCode and MySQL Workbench
+Frontend: HTML, CSS, Bootstrap and JavaScript (ES6)
+Backend: JavaScript and Node.js
+Frameworks, Libraries and Modules: express, bcrypt, mysql2, dotenv, cors and npm
 
 What are the main initial points for improvement?
-
 Authentication and Security
 • Password requirement with 'strong' pattern.
 • 2-factor authentication for login.
